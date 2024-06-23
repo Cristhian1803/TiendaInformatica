@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>login background.png</file>
+    <file>laboratorio-de-computacion-con-filas-de-computadoras-en-la-escuela-m4ddjm.jpg</file>
+  </qresource>
+</RCC>
